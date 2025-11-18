@@ -31,3 +31,116 @@
 机械臂
 VLA
 
+特斯拉人形机器人
+Tesla Optimus
+Figure AI
+优必选 Walker
+GITAI
+Agility Robotics
+Boston Dynamics
+大疆机器人
+哈工大机器人
+商汤人形机器人
+科大讯飞机器人
+云深处机器人
+Unitree
+Zhiyuan Deep Robotics
+Fourier X1
+ALOHA
+Google RT
+Meta Embodied AI
+NVIDIA GR00T
+
+双足机器人
+双臂协作机器人
+移动操作机器人
+全尺寸人形机器人
+小尺寸人形机器人
+仿生机器人
+机械狗
+四足机器人
+轮腿机器人
+
+伺服电机
+扭矩电机
+大扭矩关节
+行星减速器
+谐波减速器
+关节模组
+力矩传感器
+视觉模组
+深度相机
+力传感器
+IMU
+电池包
+控制器
+MCU
+电机驱动器
+
+灵巧手
+柔顺手
+力控机械臂
+视觉伺服
+末端执行器
+夹爪
+自适应夹爪
+触觉传感器
+
+VLA
+RT-2 
+RT-3
+RT-X
+GR00T
+Embodied AI
+世界模型
+模仿学习
+Imitation Learning
+行为克隆
+离线强化学习
+具身大模型
+传感器融合
+多模态策略
+视觉语言动作模型
+Diffusion Policy
+动态规划
+MPC 控制
+强化学习训练管线
+
+PPO
+SAC
+TD3
+RND
+HER
+Curriculum Learning
+Domain Randomization
+Sim2Real
+Zero-shot
+模型预测控制 
+MPC
+整体身体控制
+WBC
+增益调参
+Gait Generator
+步态生成
+Whole-body Planning
+
+MuJoCo
+Isaac Gym
+Isaac Sim
+Gazebo
+Webots
+DeepMind Control Suite
+RLBench
+ManiSkill
+Habitat
+
+精细操作
+拿取放置
+人形行走
+平衡控制
+抓取规划
+开门操作
+插拔任务
+分类取物
+物体重排
+双手协作
